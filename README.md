@@ -1,4 +1,4 @@
-# Movie Explorer
+# Mini-Movie-Explorer
 
 Movie Explorer lets you discover thousands of movies, and allows you to add them to a curated personal watchlist. 
 
